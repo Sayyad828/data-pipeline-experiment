@@ -1,0 +1,6 @@
+outs:
+- md5: c5d4777a28da225a593455f0717052eb.dir
+  size: 1706372418
+  nfiles: 3110
+  hash: md5
+  path: PPE Benchmarking Dataset
